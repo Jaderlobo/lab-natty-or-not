@@ -1,7 +1,4 @@
-
-
-```O Código da Inovação: Desvendando o Mundo da Programação
-# Título do Projeto Extremamente Aesthetic ;)
+# O Código da Inovação: Desvendando o Mundo da Programação;)
 
 ## 📒 Descrição
 Este e-book visa apresentar o inicio dos estudos para ser programador
