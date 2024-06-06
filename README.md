@@ -1,4 +1,4 @@
-# O Código da Inovação: Desvendando o Mundo da Programação;)
+# O Código da Inovação: A inteligencia Artificial no Mundo da Programação
 
 ## 📒 Descrição
 Este e-book visa apresentar o inicio dos estudos para ser programador
